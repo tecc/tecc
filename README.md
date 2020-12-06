@@ -1,16 +1,24 @@
-### Hi there 👋
+# hi, i'm tecc
 
-<!--
-**tecc/tecc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Swedish hobbyist software developer located in Umeå, Sweden.
 
-Here are some ideas to get you started:
+I spend most of my time programming, with frequent breaks when I can't figure it out. Most frequently it's C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of my favourite games include Minecraft, Control, and Among Us.
+
+## statistics
+
+### general
+
+[![general statistics](https://github-readme-stats.vercel.app/api?username=tecc&count_private=true&show_icons=true&theme=dark)](https://tecc.me/)
+
+### top languages
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tecc&count_private=true&show_icons=true&theme=dark)](https://tecc.me/)
+
+## more
+
+There's not much more I can put in this readme.
+
+Do check out [my organization](https://github.com/teccdotme) where I have my bigger projects. 
+
+I also own a website. There's not much on it yet, but [have a link to it either way](https://tecc.me/).
